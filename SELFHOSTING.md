@@ -18,7 +18,7 @@ The proxy is made as a Cloudflare worker. Cloudflare has a generous free plan, s
 5. Create a new service with a name of your choice. Must be type `HTTP handler`.
 6. On the service page, Click `Quick edit`.
 7. Remove the template code in the quick edit window.
-7. Download the `worker.js` file from the latest release of the proxy: [https://github.com/movie-web/simple-proxy/releases/latest](https://github.com/movie-web/simple-proxy/releases/latest).
+7. Download the `worker.js` file from the latest release of the proxy: [https://github.com/Eudximoniia/simple-proxy/releases/latest](https://github.com/Eudximoniia/simple-proxy/releases/latest).
 8. Open the downloaded `worker.js` file in Notepad, Visual Studio Code or similar.
 9. Copy the text contents of the `worker.js` file.
 10. Paste the text contents into the edit screen of the Cloudflare service worker.
@@ -28,7 +28,7 @@ Your proxy is now hosted on Cloudflare. Note the url of your worker as you will 
 
 ## Hosting the client
 
-1. Download the file `movie-web.zip` from the latest release: [https://github.com/movie-web/movie-web/releases/latest](https://github.com/movie-web/movie-web/releases/latest).
+1. Download the file `acubens.zip` from the latest release: [https://github.com/Eudximoniia/acubens/releases/latest](https://github.com/Eudximoniia/acubens/releases/latest).
 2. Extract the zip file so you can edit the files.
 3. Open `config.js` in Notepad, Visual Studio Code or similar.
 4. Put your Cloudflare proxy URL in-between the double quotes of `VITE_CORS_PROXY_URL: ""`. Make sure to not have a slash at the end of your URL.

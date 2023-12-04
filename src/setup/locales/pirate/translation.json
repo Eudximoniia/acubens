@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "Acubens"
   },
   "search": {
     "loading_series": "Fetchin' yer favorite series...",
@@ -114,8 +114,8 @@
   },
   "v3": {
     "newSiteTitle": "New version now released!",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "movie-web will soon be movin' to a new domain: <0>https://movie-web.app</0>. Make sure to update all yer bookmarks as <1>the ole website will stop workin' on {{date}}.</1>",
+    "newDomain": "https://acubens.vercel.app",
+    "newDomainText": "Acubens will soon be movin' to a new domain: <0>https://acubens.vercel.app</0>. Make sure to update all yer bookmarks as <1>the ole website will stop workin' on {{date}}.</1>",
     "tireless": "We've worked tirelessly on this new update, we hope ye will enjoy wha' we've been cookin' up fer the past months.",
     "leaveAnnouncement": "Take me thar!"
   },

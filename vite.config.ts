@@ -35,8 +35,8 @@ export default defineConfig({
         "safari-pinned-tab.svg",
       ],
       manifest: {
-        name: "movie-web",
-        short_name: "movie-web",
+        name: "Acubens",
+        short_name: "acubens",
         description: "The place for your favourite movies & shows",
         theme_color: "#120f1d",
         background_color: "#120f1d",

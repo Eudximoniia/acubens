@@ -2,12 +2,12 @@
 
 ## Supported Versions
 
-The movie-web maintainers only support the latest version of movie-web published at https://movie-web.app.
+The Acubens maintainers only support the latest version of Acubens published at https://acubens.vercel.app.
 
-Support is not provided for any forks or mirrors of movie-web.
+Support is not provided for any forks or mirrors of Acubens.
 
 ## Reporting a Vulnerability
 
-There are two ways you can contact the movie-web maintainers to report a vulnerability:
- - Email [security@movie-web.app](mailto:security@movie-web.app)
- - Report the vulnerability in the [movie-web Discord server](https://discord.movie-web.app)
+There are two ways you can contact the Acubens maintainers to report a vulnerability:
+ - Email [security@acubens.app](mailto:security@acubens.app)
+ - Report the vulnerability in the [Acubens Discord server](https://discord.acubens.app)

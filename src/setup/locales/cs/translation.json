@@ -1,6 +1,6 @@
 {
   "global": {
-    "name": "movie-web"
+    "name": "Acubens"
   },
   "search": {
     "loading_series": "Načítání Vašich oblíbených seriálů...",
@@ -114,8 +114,8 @@
   },
   "v3": {
     "newSiteTitle": "Je dostupná nová verze!",
-    "newDomain": "https://movie-web.app",
-    "newDomainText": "movie-web se brzy přesune na novou doménu: <0>https://movie-web.app</0>. Nezapomeňte si aktualizovat záložky, protože <1>stará stránka přestane fungovat {{date}}.</1>",
+    "newDomain": "https://acubens.vercel.app",
+    "newDomainText": "Acubens se brzy přesune na novou doménu: <0>https://acubens.vercel.app</0>. Nezapomeňte si aktualizovat záložky, protože <1>stará stránka přestane fungovat {{date}}.</1>",
     "tireless": "Pracovali jsme neúnavně na této nové aktualizaci, a tak doufáme, že se Vám bude líbit co jsme v posledních měsících kuchtili.",
     "leaveAnnouncement": "Vezměte mě tam!"
   },

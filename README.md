@@ -1,14 +1,14 @@
-<h1>movie-web</h1>
+<h1>Acubens</h1>
 
 <p align="center">
-<a href="https://github.com/movie-web/movie-web/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/movie-web/movie-web/deploying.yml?branch=master&style=flat-square"></a>
-<a href="https://github.com/movie-web/movie-web/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/movie-web/movie-web?style=flat-square"></a>
-<a href="https://github.com/movie-web/movie-web/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/movie-web/movie-web?style=flat-square"></a>
-<a href="https://github.com/movie-web/movie-web/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/movie-web/movie-web?style=flat-square"></a><br/>
-<a href="https://discord.movie-web.app"><img src="https://discord.com/api/guilds/871713465100816424/widget.png?style=banner2" alt="Discord Server"></a>
+<a href="https://github.com/Eudximoniia/acubens/actions"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Eudximoniia/acubens/deploying.yml?branch=master&style=flat-square"></a>
+<a href="https://github.com/Eudximoniia/acubens/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/Eudximoniia/acubens?style=flat-square"></a>
+<a href="https://github.com/Eudximoniia/acubens/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Eudximoniia/acubens?style=flat-square"></a>
+<a href="https://github.com/Eudximoniia/acubens/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Eudximoniia/acubens?style=flat-square"></a><br/>
+<a href="https://discord.acubens.app"><img src="https://discord.com/api/guilds/871713465100816424/widget.png?style=banner2" alt="Discord Server"></a>
 </p>
 
-movie-web is a web app for watching movies easily. Check it out at **[movie-web.app](https://movie-web.app)**.
+acubens is a web app for watching movies easily. Check it out at **[acubens.vercel.app](https://acubens.vercel.app)**.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
@@ -19,7 +19,7 @@ Features include:
 - 🎞️ Easy switching between seasons and episodes for a TV series; binge away!
 - ✖️ Supports multiple types of content including movies, TV shows and Anime (coming soon™️)
 
-## Goals of movie-web
+## Goals of Acubens
 
 - No ads
 - No BS: just a search bar and a video player
@@ -27,9 +27,9 @@ Features include:
 
 ## Self-hosting
 
-A simple guide has been written to assist in hosting your own instance of movie-web.
+A simple guide has been written to assist in hosting your own instance of Acubens.
 
-Check it out here: [https://github.com/movie-web/movie-web/blob/dev/SELFHOSTING.md](https://github.com/movie-web/movie-web/blob/dev/SELFHOSTING.md)
+Check it out here: [https://github.com/Eudximoniia/acubens/blob/dev/SELFHOSTING.md](https://github.com/Eudximoniia/acubens/blob/dev/SELFHOSTING.md)
 
 ## Running locally for development
 
@@ -37,20 +37,20 @@ To run this project locally for contributing or testing, run the following comma
 <h5><b>note: must use yarn to install packages and run NodeJS 16</b></h5>
 
 ```bash
-git clone https://github.com/movie-web/movie-web
-cd movie-web
+git clone https://github.com/Eudximoniia/acubens
+cd acubens
 yarn install
 yarn dev
 ```
 
 To build production files, simply run `yarn build`.
 
-You'll need to deploy a cloudflare service worker as well. Check the [selfhosting guide](https://github.com/movie-web/movie-web/blob/dev/SELFHOSTING.md) on how to run the service worker. Afterwards you can make a `.env` file and put in the URL. (see `example.env` for an example)
+You'll need to deploy a cloudflare service worker as well. Check the [selfhosting guide](https://github.com/Eudximoniia/acubens/blob/dev/SELFHOSTING.md) on how to run the service worker. Afterwards you can make a `.env` file and put in the URL. (see `example.env` for an example)
 
-<h2>Contributing - <a href="https://github.com/movie-web/movie-web/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/movie-web/movie-web?style=flat-square"></a>
-<a href="https://github.com/movie-web/movie-web/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/movie-web/movie-web?style=flat-square"></a></h2>
+<h2>Contributing - <a href="https://github.com/Eudximoniia/acubens/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Eudximoniia/acubens?style=flat-square"></a>
+<a href="https://github.com/Eudximoniia/acubens/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Eudximoniia/acubens?style=flat-square"></a></h2>
 
-Check out [this project's issues](https://github.com/movie-web/movie-web/issues) for inspiration for contribution. Pull requests are always welcome.
+Check out [this project's issues](https://github.com/Eudximoniia/acubens/issues) for inspiration for contribution. Pull requests are always welcome.
 
 **All pull requests must be merged into the `dev` branch. it will then be deployed with the next version**
 
@@ -58,7 +58,7 @@ Check out [this project's issues](https://github.com/movie-web/movie-web/issues)
 
 This project would not be possible without our amazing contributors and the community.
 
-<a href="https://github.com/movie-web/movie-web/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/movie-web/movie-web?style=flat-square"></a>
+<a href="https://github.com/Eudximoniia/acubens/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Eudximoniia/acubens?style=flat-square"></a>
 
 <div style="display:flex;align-items:center;grid-gap:10px">
 <img src="https://github.com/JamesHawkinss.png?size=20" width="20"><span><a href="https://github.com/JamesHawkinss">@JamesHawkinss</a> for original concept.</span>
