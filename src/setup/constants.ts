@@ -1,5 +1,5 @@
 export const APP_VERSION = import.meta.env.PACKAGE_VERSION;
-#export const DISCORD_LINK = "https://discordapp.com/users/435919215279472641";
+export const DISCORD_LINK = "https://discordapp.com/users/435919215279472641";
 export const GITHUB_LINK = "https://github.com/Eudximoniia/acubens";
 export const GA_ID = "G-44YVXRL61C";
 export const SENTRY_DSN =
