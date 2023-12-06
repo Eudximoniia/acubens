@@ -24,12 +24,6 @@ Features include:
 - No BS: just a search bar and a video player
 - No responsibility on the hoster, no databases or api's hosted by us, just a static site
 
-## Self-hosting
-
-A simple guide has been written to assist in hosting your own instance of Acubens.
-
-Check it out here: [https://github.com/Eudximoniia/acubens/blob/dev/SELFHOSTING.md](https://github.com/Eudximoniia/acubens/blob/dev/SELFHOSTING.md)
-
 ## Running locally for development
 
 To run this project locally for contributing or testing, run the following commands:
@@ -44,8 +38,6 @@ yarn dev
 
 To build production files, simply run `yarn build`.
 
-You'll need to deploy a cloudflare service worker as well. Check the [selfhosting guide](https://github.com/Eudximoniia/acubens/blob/dev/SELFHOSTING.md) on how to run the service worker. Afterwards you can make a `.env` file and put in the URL. (see `example.env` for an example)
-
 <h2>Contributing - <a href="https://github.com/Eudximoniia/acubens/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Eudximoniia/acubens?style=flat-square"></a>
 <a href="https://github.com/Eudximoniia/acubens/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Eudximoniia/acubens?style=flat-square"></a></h2>
 
@@ -58,6 +50,10 @@ Check out [this project's issues](https://github.com/Eudximoniia/acubens/issues)
 This project would not be possible without our amazing contributors and the community.
 
 <a href="https://github.com/Eudximoniia/acubens/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Eudximoniia/acubens?style=flat-square"></a>
+
+<div style="display:flex;align-items:center;grid-gap:10px">
+<img src="https://github.com/movie-web.png?size=20" width="20"><span><a href="https://github.com/movie-web">@movie-web</a> for original repository.</span>
+</div>
 
 <div style="display:flex;align-items:center;grid-gap:10px">
 <img src="https://github.com/JamesHawkinss.png?size=20" width="20"><span><a href="https://github.com/JamesHawkinss">@JamesHawkinss</a> for original concept.</span>
