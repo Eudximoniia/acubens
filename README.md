@@ -5,7 +5,6 @@
 <a href="https://github.com/Eudximoniia/acubens/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/Eudximoniia/acubens?style=flat-square"></a>
 <a href="https://github.com/Eudximoniia/acubens/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Eudximoniia/acubens?style=flat-square"></a>
 <a href="https://github.com/Eudximoniia/acubens/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Eudximoniia/acubens?style=flat-square"></a><br/>
-<a href="https://discord.acubens.app"><img src="https://discord.com/api/guilds/871713465100816424/widget.png?style=banner2" alt="Discord Server"></a>
 </p>
 
 acubens is a web app for watching movies easily. Check it out at **[acubens.vercel.app](https://acubens.vercel.app)**.

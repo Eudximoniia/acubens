@@ -9,5 +9,4 @@ Support is not provided for any forks or mirrors of Acubens.
 ## Reporting a Vulnerability
 
 There are two ways you can contact the Acubens maintainers to report a vulnerability:
- - Email [security@acubens.app](mailto:security@acubens.app)
- - Report the vulnerability in the [Acubens Discord server](https://discord.acubens.app)
+ - Email [eudximoniia_529@proton.me](mailto:eudximoniia_529@proton.me)
