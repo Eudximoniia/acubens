@@ -7,7 +7,6 @@ Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community ap
 ## Contents
  - [New Contributor Guide](#new-contributor-guide)
  - [Requesting a feature or reporting a bug](#requesting-a-feature-or-reporting-a-bug)
-   - [Discord Server](#discord-server)
    - [GitHub Issues](#github-issues)
  - [Before you start](#before-you-start)
  - [Contributing](#before-you-start)
@@ -28,12 +27,6 @@ To get an overview of the project, read the [README](README.md). Here are some r
 ## Requesting a feature or reporting a bug
 There are two places where to request features or report bugs:
  - GitHub Issues
- - The Acubens Discord server
-
-### Discord Server
-If you do not have a GitHub account or want to discuss a feature or bug with us before making an issue, you can join our Discord server.
-
-<a href="https://discord.acubens.app"><img src="https://discord.com/api/guilds/871713465100816424/widget.png?style=banner2" alt="Discord Server"></a>
 
 ### GitHub Issues
 To make a GitHub issue for Acubens, please visit the [new issue page](https://github.com/Eudximoniia/acubens/issues/new/choose) where you can pick either the "Bug Report" or "Feature Request" template.
