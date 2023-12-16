@@ -1,5 +1,4 @@
 import { memo, useEffect, useRef } from "react";
-import { Icons, iconList } from "./icons";
 
 export enum Icons {
   SEARCH = "search",
